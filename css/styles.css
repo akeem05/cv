@@ -1,0 +1,14 @@
+body {
+    background-color: bisque; font-style: oblique;
+  }
+  h1{color: brown;}
+  h3{color: brown;}
+  h4{color: brown;}
+  hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: brown;
+    border-width: 10px;
+    width: 10%;
+  }
+  img{border-radius: 100%;}
